@@ -4,8 +4,8 @@
   "clear_enabled": true,
   "clear_interval": 1,
   "speed_rotator": 8.5,
-  "use_status_sequence": true,
-  "emoji_rotation_mode": "after_text_cycle",
+  "use_status_sequence": false,
+  "emoji_rotation_mode": "with_text",
   "hypesquad_sequence": ["bravery", "brilliance", "balance"],
   "hypesquad_mapping": {
     "bravery": 1,
@@ -17,3 +17,4 @@
   "rotate_aboutme": false,
   "aboutme_rotation_interval": 15
 }
+
