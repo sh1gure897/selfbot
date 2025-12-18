@@ -1,5 +1,5 @@
 {
-  "token": "MTQwNzc3MzE4NjQzODk4Nzk0Nw.G_wdT_.JVVlJPQquRbHzPPlwztGCxFP_KDF6NL41WzPd0",
+  "token": "",
   "status_sequence": ["idle"],
   "clear_enabled": true,
   "clear_interval": 1,
@@ -17,4 +17,5 @@
   "rotate_aboutme": false,
   "aboutme_rotation_interval": 15
 }
+
 
