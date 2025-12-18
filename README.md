@@ -162,7 +162,8 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 
 You can contact me on Discord:
 
-[![Discord](https://img.shields.io/badge/Discord-relih-blue?logo=discord&logoColor=white)](https://discord.com/users/728460389536235581)
+[![Discord](https://img.shields.io/badge/Discord-relih-blue?logo=discord&logoColor=white)](https://discord.gg/HPPdswSr)
 
 
 因みに結構アカウントがロックされるので完全自己責任で、はい、、、
+
