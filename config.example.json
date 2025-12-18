@@ -1,6 +1,6 @@
 {
   "_comment_token": "YoUr Discord token - Check README.md for more info",
-  "token": "MTQwNzc3MzE4NjQzODk4Nzk0Nw.G_wdT_.JVVlJPQquRbHzPPlwztGCxFP_KDF6NL41WzPd0",
+  "token": "",
   
   "_comment_status": "Discord status rotation: online, idle, dnd, offline",
   "status_sequence": ["online", "idle", "dnd"],
@@ -31,3 +31,4 @@
   "rotate_aboutme": false,
   "aboutme_rotation_interval": 60
 }
+
